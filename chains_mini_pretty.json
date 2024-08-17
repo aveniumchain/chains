@@ -13363,6 +13363,19 @@
   "faucets": [],
   "infoURL": "https://www.peaq.network"
 }, {
+  "name": "Avenium Mainnet",
+  "chainId": 9995,
+  "shortName": "ave",
+  "networkId": 9995,
+  "nativeCurrency": {
+    "name": "Ave Native Token",
+    "symbol": "AVE",
+    "decimals": 18
+  },
+  "rpc": ["https://core-mainnet.avenium.io", "https://core-mainnet-sg.avenium.io", "https://core-mainnet-eu.avenium.io", "https://core-mainnet-us.avenium.io"],
+  "faucets": [],
+  "infoURL": "https://avenium.io"
+}, {
   "name": "Mind Smart Chain Mainnet",
   "chainId": 9996,
   "shortName": "MIND",

@@ -1027,6 +1027,7 @@
   "combo-mainnet": "eip155:9980",
   "volley-mainnet": "eip155:9981",
   "AGNG": "eip155:9990",
+  "ave": "eip155:9995",
   "MIND": "eip155:9996",
   "alt-testnet": "eip155:9997",
   "ZTC": "eip155:9998",
